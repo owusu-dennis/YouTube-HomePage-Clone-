@@ -1,0 +1,19 @@
+html{
+    scroll-behavior: smooth;
+    transition: media 0.4s ease;
+}
+
+body{
+    font-family: roboto, arial;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 20px;
+    padding-bottom: 1000px;
+    background-color: rgb(245, 245, 245);
+}
+
+
+p{
+    margin: 0;
+}
